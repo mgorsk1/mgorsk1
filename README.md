@@ -4,7 +4,7 @@
 
 I work as a Data Engineer in ING Wholesale Banking Advanced Analytics where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). Our major areas of influence are within data ingestion and data discovery.
 
-I also am a trainer 🎓 for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elasticsearch trainings for private and business clients. 
+I also am a trainer 🎓 for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack related trainings. 
 
 ### Open Source
 

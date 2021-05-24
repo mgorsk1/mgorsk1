@@ -1,10 +1,10 @@
-### Hi, I'm Mariusz✌🏻
+## Hi, I'm Mariusz✌🏻
 
-#### `whoami`
+### `whoami`
 
 I work as a Data Engineer in ING Wholesale Banking Advanced Analytics where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). Our major areas of influence are within data ingestion and data discovery.
 
-#### Open Source
+### Open Source
 
 I have a strong fondness towards Open-Source and I am proud to be a contributor/maintainer for:
 
@@ -12,7 +12,7 @@ I have a strong fondness towards Open-Source and I am proud to be a contributor/
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - metadata governance framework
 
-#### Medium Stories
+### Medium Stories
 
 Although rather seldom, I write medium stories from time to time:
 
@@ -20,13 +20,13 @@ Although rather seldom, I write medium stories from time to time:
 - [Facilitating Data discovery with Apache Atlas and Amundsen](https://medium.com/wbaa/facilitating-data-discovery-with-apache-atlas-and-amundsen-631baa287c8b)
 
 
-#### My personal projects
+### My personal projects
 
 - 🗑️ [Smart Garbage App](https://github.com/mgorsk1/garbage-detector-app) - an AI-powered waste sorting trash bin
 - 🔴 [Snooker Data Client](https://github.com/mgorsk1/snooker) - a simple Python client for retrieving snooker related data from [api.snooker.org](http://api.snooker.org)
 
 
-#### My hobbies
+### My hobbies
 
 - ☕ Coffee
 - 🔴 Snooker

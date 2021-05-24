@@ -28,7 +28,7 @@ Although rather seldom, I write medium stories from time to time:
 
 #### My hobbies
 
-- ☕ Cofeee
+- ☕ Coffee
 - 🔴 Snooker
 
 #### Find me elsewhere

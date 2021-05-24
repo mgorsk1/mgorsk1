@@ -8,7 +8,7 @@ I also am a trainer 🎓 for a Polish training company [Sages](https://www.sages
 
 ### Open Source
 
-My experience revolves around I have a strong fondness towards Open-Source and I am proud to be a contributor/maintainer for:
+My experience revolves around Open-Source, towards which I have a strong fondness. I am proud to be a contributor/maintainer for:
 
 - 🔍 [Amundsen](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows

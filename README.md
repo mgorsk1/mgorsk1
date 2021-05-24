@@ -32,6 +32,6 @@ Although rather seldom, I sometimes write medium stories:
 - 🔴 Snooker
 
 #### Find me elsewhere
-<a href="https://www.linkedin.com/in/gorskimariusz/", target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://", target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gorskimariusz/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://mariuszgorski.medium.com/)
 

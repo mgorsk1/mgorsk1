@@ -10,9 +10,9 @@ I also am a trainer 🎓 for a Polish training company [Sages](https://www.sages
 
 My experience revolves mostly around Open Source technologies, towards which I have a strong fondness. I am proud to be a contributor/maintainer for:
 
-- 🔍 [Amundsen](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
+- 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
-- 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - metadata governance framework
+- 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 
 [![Activity](https://github-readme-stats.vercel.app/api?username=mgorsk1&show_icons=true&hide_title=true&hide_border=true)](https://github.com/mgorsk1)
 

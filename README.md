@@ -14,6 +14,8 @@ My experience revolves mostly around Open Source technologies, towards which I h
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - metadata governance framework
 
+[![Activity](https://github-readme-stats.vercel.app/api?username=mgorsk1&show_icons=true&hide_title=true&hide_border=true)](https://github.com/mgorsk1)
+
 ### Medium Stories
 
 Although rather seldom, I sometimes write medium stories:

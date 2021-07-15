@@ -1,6 +1,6 @@
 ## Hi, I'm Mariusz✌🏻
 
-### `whoami`
+### ~ whoami
 
 I work as a Data Engineer in ING Wholesale Banking Advanced Analytics where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). Our major areas of influence are within data ingestion and data discovery.
 

@@ -35,7 +35,7 @@ I also am a trainer for a Polish training company [Sages](https://www.sages.pl/)
 My experience revolves mostly around Open Source technologies, towards which I have a strong fondness. I am proud to be a contributor/maintainer for:
 
 - 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
-- 🔍 [OpenMetadata[(https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
+- 🔍 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 

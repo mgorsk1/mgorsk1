@@ -2,17 +2,38 @@
 
 ### ~ whoami
 
-I work as a Data Engineer in ING Wholesale Banking Advanced Analytics where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). Our major areas of influence are within data ingestion and data discovery.
+I work as a Tech Lead in ING Advanced Analytics where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). My current area of influence is within the data discoverability. 
+
+In the past I was heavily involved in:
+
+- Writing and extending framework for data ingestion
+- Writing and extending frameworks for data quality / profiling
+
+I have strong experience in distributed systems leveraging modern technologies such as:
+- Kubernetes
+- Apache Airflow
+- Apache Spark
+- Apache Superset
+- Confluent Kafka
+- Elastic Stack (formely ELK)
+ 
+#### Certifications
+
+I hold following certificates:
+- Google Cloud Professional Cloud Architect (PCA)
+- Google Cloud Associate Engineer (AE)
+- Kubernetes Certified Application Developer (CKAD)
 
 #### Conducting trainings 🎓
 
-I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Spark related trainings. So far I've conducted 30 trainings for over 250 people.
+I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Spark related trainings. So far I've conducted 30+ trainings for over 250 people.
 
 ### Open Source
 
 My experience revolves mostly around Open Source technologies, towards which I have a strong fondness. I am proud to be a contributor/maintainer for:
 
 - 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
+- 🔍 [OpenMetadata[(https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 

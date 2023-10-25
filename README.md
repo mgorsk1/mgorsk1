@@ -4,7 +4,7 @@
 
 I work as a Tech Lead in ING Advanced Analytics, where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
 
-My current area of influence is within the data discoverability. 
+My current area of influence is within the **data discoverability**. 
 
 In the past I was heavily involved in:
 

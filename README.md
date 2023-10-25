@@ -11,7 +11,7 @@ In the past I was heavily involved in:
 - Writing and extending framework for data ingestion
 - Writing and extending frameworks for data quality / profiling
 
-I have strong experience in distributed systems leveraging modern technologies such as:
+I have strong experience in distributed systems, leveraging modern technologies such as:
 - Kubernetes
 - Apache Airflow
 - Apache Spark

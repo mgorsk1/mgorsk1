@@ -4,11 +4,11 @@
 
 I work as a Tech Lead in ING Advanced Analytics, where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
 
-My current area of influence is within the **data discoverability**. 
+My current area of influence is within the **data cataloging, discoverability and lineage**. 
 
 In the past I was heavily involved in:
 
-- Writing and extending framework for data ingestion
+- Writing and extending frameworks for data ingestion
 - Writing and extending frameworks for data quality / profiling
 
 I have strong experience in distributed systems, leveraging modern technologies such as:
@@ -50,12 +50,14 @@ Although rather seldom, I sometimes write medium stories:
 
 ### My personal projects
 
+- 🚴 [Smart Indoor Trainer](https://github.com/mgorsk1/trainr) - an IoT project leveraging AI and ANT+ to make indoor cycling trianing sessions bearable
 - 🗑️ [Smart Garbage App](https://github.com/mgorsk1/garbage-detector-app) - an AI-powered waste sorting trash bin
 - 🔴 [Snooker Data Client](https://github.com/mgorsk1/snooker) - a simple Python client for retrieving snooker related data from [api.snooker.org](http://api.snooker.org)
 
 ### My hobbies
 
 - ☕ Coffee
+- 🚴 Cycling
 - 🔴 Snooker
 
 #### Find me elsewhere

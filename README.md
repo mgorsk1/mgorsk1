@@ -28,7 +28,7 @@ I hold following certificates:
 
 #### Conducting trainings 🎓
 
-I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Spark related trainings. So far I've conducted 30+ trainings for over 250 people.
+I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Apache Spark related trainings. So far I've conducted 30+ trainings for over 250 people.
 
 ### Open Source
 
@@ -37,6 +37,7 @@ My experience revolves mostly around Open Source technologies, towards which I h
 - 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
 - 🔍 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
+- - 🌬️ [Trino](https://github.com/trinodb/trino) /contributor/ - a distributed SQL query engine for big data analytics that helps you explore your data universe
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 
 [![Activity](https://github-readme-stats.vercel.app/api?username=mgorsk1&show_icons=true&hide_title=true&hide_border=true)](https://github.com/mgorsk1)

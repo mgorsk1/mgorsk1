@@ -30,8 +30,8 @@ I hold following certificates:
 
 I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Apache Spark related trainings. So far I've conducted 30+ trainings for over 250 people.
 
-![Training Participants](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/training_participants_badge.json)
 ![Trainings](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/trainings_count_badge.json)
+![Training Participants](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/training_participants_badge.json)
 
 ### Open Source
 

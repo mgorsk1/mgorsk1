@@ -5,10 +5,10 @@
 I am an experied Tech Lead, contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
 
 My areas of involvement within last few years:
-- platform, software and data engineering
-- data cataloging, discoverability and lineage
-- data ingestion frameworks
-- data quality / profiling
+- Platform, software and data engineering
+- Data cataloging, discoverability and lineage
+- Data ingestion frameworks
+- Data quality / profiling
 
 #### Technologies
 

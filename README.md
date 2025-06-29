@@ -29,8 +29,8 @@ I hold following certificates:
 
 ### 🎓 Conducting trainings
 
-![Trainings](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/trainings_count_badge.json)
-![Training Participants](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/training_participants_badge.json)
+![Trainings](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/trainings_count_badge.json)
+![Training Participants](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/training_participants_badge.json)
 
 I also am a trainer for a Polish training company [Sages](https://www.sages.pl/) where I am responsible for conducting Elastic Stack and Apache Spark related trainings.
 

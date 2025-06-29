@@ -40,7 +40,7 @@ My experience revolves mostly around Open Source technologies, towards which I h
 
 - 🔍 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
 - 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
-- 🔍 [Trino]([Trino](https://github.com/trinodb/trino)) /contributor/ - a fast distributed SQL query engine for big data analytics that helps you explore your data universe
+- 🔍 [Trino](https://github.com/trinodb/trino) /contributor/ - a fast distributed SQL query engine for big data analytics that helps you explore your data universe
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 

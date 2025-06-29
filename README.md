@@ -1,6 +1,6 @@
 ## Hi, I'm Mariusz✌🏻
 
-### ~ whoami
+## ~ whoami
 
 I am an experied Tech Lead within ING 🦁 Advanced Analytics, contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2).
 
@@ -10,7 +10,7 @@ My areas of involvement within last few years:
 - Data ingestion frameworks
 - Data quality / profiling
 
-#### Technologies
+### Technologies
 
 I have strong experience in distributed systems, leveraging modern technologies such as:
 
@@ -20,14 +20,14 @@ I have strong experience in distributed systems, leveraging modern technologies 
 - Confluent Kafka
 - Elastic Stack
  
-#### Certifications
+### Certifications
 
 I hold following certificates:
 - Google Cloud Professional Cloud Architect (PCA)
 - Google Cloud Associate Engineer (AE)
 - Kubernetes Certified Application Developer (CKAD)
 
-#### Conducting trainings 🎓
+### Conducting trainings 🎓
 
 ![Trainings](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/trainings_count_badge.json)
 ![Training Participants](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mgorsk1/training-badges/gh-pages/_data/training_participants_badge.json)

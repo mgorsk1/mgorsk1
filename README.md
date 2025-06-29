@@ -2,7 +2,7 @@
 
 ### ~ whoami
 
-I am an experied Tech Lead, contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
+I am an experied Tech Lead within ING 🦁 Advanced Analytics, contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2).
 
 My areas of involvement within last few years:
 - Platform, software and data engineering

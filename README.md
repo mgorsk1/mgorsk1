@@ -2,22 +2,23 @@
 
 ### ~ whoami
 
-I work as a Tech Lead in ING Advanced Analytics, where I am a part of a team contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
+I am an experied Tech Lead, contributing to [Data Analytics Platform](https://medium.com/wbaa/the-data-analytics-platform-91c6295c4e2). 
 
-My current area of influence is within the **data cataloging, discoverability and lineage**. 
+My areas of involvement within last few years:
+- platform, software and data engineering
+- data cataloging, discoverability and lineage
+- data ingestion frameworks
+- data quality / profiling
 
-In the past I was heavily involved in:
-
-- Writing and extending frameworks for data ingestion
-- Writing and extending frameworks for data quality / profiling
+#### Technologies
 
 I have strong experience in distributed systems, leveraging modern technologies such as:
+
 - Kubernetes
-- Apache Airflow
 - Apache Spark
-- Apache Superset
+- Apache Airflow
 - Confluent Kafka
-- Elastic Stack (formely ELK)
+- Elastic Stack
  
 #### Certifications
 
@@ -37,10 +38,10 @@ I also am a trainer for a Polish training company [Sages](https://www.sages.pl/)
 
 My experience revolves mostly around Open Source technologies, towards which I have a strong fondness. I am proud to be a contributor/maintainer for:
 
-- 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
 - 🔍 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) /contributor/ - an all-in-one platform for data discovery, data lineage, data quality, observability, governance, and team collaboration
+- 🔍 [Amundsen (LF AI)](https://github.com/amundsen-io/amundsen) /maintainer/ - a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
+- 🔍 [Trino]([Trino](https://github.com/trinodb/trino)) /contributor/ - a fast distributed SQL query engine for big data analytics that helps you explore your data universe
 - 🌬️ [Apache Airflow](https://github.com/apache/airflow) /contributor/ - a platform to programmatically author, schedule and monitor workflows
-- - 🌬️ [Trino](https://github.com/trinodb/trino) /contributor/ - a distributed SQL query engine for big data analytics that helps you explore your data universe
 - 🌍 [Apache Atlas](https://github.com/apache/atlas) /contributor/ - a metadata governance framework
 
 [![Activity](https://github-readme-stats.vercel.app/api?username=mgorsk1&show_icons=true&hide_title=true&hide_border=true)](https://github.com/mgorsk1)
